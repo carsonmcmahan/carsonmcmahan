@@ -10,3 +10,5 @@ On the learning side, I am teaching myself C by taking a course through [Low Lev
 - Video games
 - Baseball (Go Dodgers!)
 - Building Legos
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/carsonmcmahan)!
